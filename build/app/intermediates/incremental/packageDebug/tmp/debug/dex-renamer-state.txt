@@ -1,0 +1,4 @@
+#Sat Jul 17 00:02:57 BST 2021
+base.0=/home/efbicief/AndroidStudioProjects/startup_namer/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

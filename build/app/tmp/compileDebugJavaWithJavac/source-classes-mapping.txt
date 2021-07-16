@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+xyz/fbcf/startup_namer/MainActivity.java
+ xyz.fbcf.startup_namer.MainActivity
+xyz/fbcf/startup_namer/BuildConfig.java
+ xyz.fbcf.startup_namer.BuildConfig
